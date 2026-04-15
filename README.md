@@ -5,6 +5,8 @@ This project focuses on analyzing stocks listed in the S&P 500 index to identify
 The dataset is derived from:
 https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
+Keywords: Machine Learning, Clustering, Portfolio Optimization, Risk Management, S&P 500
+
 ### 🎯 Objective
 The main objective is to cluster stocks based on key financial metrics:
 - Return
