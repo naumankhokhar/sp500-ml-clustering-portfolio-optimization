@@ -40,5 +40,5 @@ The S&P 500 index consists of 500 large-cap U.S. companies from various sectors,
 
 ### 👥 Team Members
 Nauman Khokhar(Me) - https://www.linkedin.com/in/naumankhokhar
-Prismik Gurung 
+Prismika Gurung 
 Ahmad Butt
